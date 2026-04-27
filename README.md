@@ -30,3 +30,8 @@ Documenting minting and interaction with NFT collections on Base.
 ## Strategy
 
 Focusing on consistent and natural interaction patterns instead of high-volume bursts.
+
+## Observations
+
+- Regular activity improves overall profile
+- Diverse interactions strengthen onchain presence

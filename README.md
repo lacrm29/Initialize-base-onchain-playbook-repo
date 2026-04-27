@@ -14,3 +14,7 @@ This repository documents structured activity and observations on the Base netwo
 ## Overview
 
 This repository documents structured activity on the Base network, including transactions, dApp usage, and NFT interactions.
+
+## Daily Activity
+
+Tracking consistent onchain behavior through small and regular transactions.

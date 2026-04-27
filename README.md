@@ -18,3 +18,7 @@ This repository documents structured activity on the Base network, including tra
 ## Daily Activity
 
 Tracking consistent onchain behavior through small and regular transactions.
+
+## dApp Usage
+
+Exploring different decentralized applications within the Base ecosystem.

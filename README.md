@@ -22,3 +22,7 @@ Tracking consistent onchain behavior through small and regular transactions.
 ## dApp Usage
 
 Exploring different decentralized applications within the Base ecosystem.
+
+## NFT Activity
+
+Documenting minting and interaction with NFT collections on Base.

@@ -35,3 +35,9 @@ Focusing on consistent and natural interaction patterns instead of high-volume b
 
 - Regular activity improves overall profile
 - Diverse interactions strengthen onchain presence
+
+- ## Future Goals
+
+- Expand interaction across more dApps  
+- Increase activity diversity  
+- Continue consistent usage

@@ -26,3 +26,7 @@ Exploring different decentralized applications within the Base ecosystem.
 ## NFT Activity
 
 Documenting minting and interaction with NFT collections on Base.
+
+## Strategy
+
+Focusing on consistent and natural interaction patterns instead of high-volume bursts.

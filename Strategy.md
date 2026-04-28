@@ -12,3 +12,7 @@ Maintaining regular activity over time instead of short bursts of high volume tr
 ## Diversity
 
 Interacting with multiple dApps and tokens to create a broader activity profile.
+
+## Risk Management
+
+Avoiding large transactions and focusing on smaller, controlled interactions.

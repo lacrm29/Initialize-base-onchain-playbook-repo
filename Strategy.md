@@ -20,3 +20,7 @@ Avoiding large transactions and focusing on smaller, controlled interactions.
 ## Efficiency
 
 Using low-cost transactions to maintain long-term activity without high expenses.
+
+## Conclusion
+
+A balanced approach combining consistency, diversity, and efficiency leads to a stronger onchain presence.

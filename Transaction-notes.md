@@ -16,3 +16,7 @@ Using different tokens increases interaction diversity across the network.
 ## Gas Efficiency
 
 Low transaction fees allow frequent activity without high costs.
+
+## Summary
+
+Consistent and varied transactions create a stronger activity profile over time.

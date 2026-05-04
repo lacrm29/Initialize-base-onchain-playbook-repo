@@ -16,3 +16,7 @@ Using multiple dApps helps build a more diverse activity profile.
 ## UI/UX
 
 Clean and simple interfaces make interactions faster and more user-friendly.
+
+## Performance
+
+Transactions are processed بسرعة with low latency, improving overall experience.

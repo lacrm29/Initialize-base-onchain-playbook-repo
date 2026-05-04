@@ -20,3 +20,8 @@ Clean and simple interfaces make interactions faster and more user-friendly.
 ## Performance
 
 Transactions are processed بسرعة with low latency, improving overall experience.
+
+## Conclusion
+
+Using different dApps regularly provides better understanding of the ecosystem.
+

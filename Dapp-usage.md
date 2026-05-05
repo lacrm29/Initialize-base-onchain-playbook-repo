@@ -32,3 +32,7 @@ Most dApps are easy to access and require minimal setup for basic interactions.
 ## Interaction Flow
 
 Simple transaction flows make repeated usage more efficient and seamless.
+
+## Insight
+
+Consistent dApp usage helps build a stronger and more natural onchain profile.

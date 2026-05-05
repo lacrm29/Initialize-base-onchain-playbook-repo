@@ -25,3 +25,6 @@ Transactions are processed بسرعة with low latency, improving overall experi
 
 Using different dApps regularly provides better understanding of the ecosystem.
 
+## Accessibility
+
+Most dApps are easy to access and require minimal setup for basic interactions.

@@ -28,3 +28,7 @@ Using different dApps regularly provides better understanding of the ecosystem.
 ## Accessibility
 
 Most dApps are easy to access and require minimal setup for basic interactions.
+
+## Interaction Flow
+
+Simple transaction flows make repeated usage more efficient and seamless.

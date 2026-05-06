@@ -36,3 +36,7 @@ Simple transaction flows make repeated usage more efficient and seamless.
 ## Insight
 
 Consistent dApp usage helps build a stronger and more natural onchain profile.
+
+## Security Considerations
+
+Basic wallet interactions require attention to permissions and contract approvals.

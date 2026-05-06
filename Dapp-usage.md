@@ -40,3 +40,7 @@ Consistent dApp usage helps build a stronger and more natural onchain profile.
 ## Security Considerations
 
 Basic wallet interactions require attention to permissions and contract approvals.
+
+## Limitations
+
+Not all dApps provide the same level of usability or features across the ecosystem.

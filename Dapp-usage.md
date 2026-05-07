@@ -24,6 +24,9 @@ Clean and simple interfaces make interactions faster and more user-friendly.
 
 Transactions are processed بسرعة with low latency, improving overall experience.
 
+Low latency and predictable fees play a key role in overall usability.
+Users tend to prefer platforms that provide stable execution without delays.
+
 ## Conclusion
 
 Using different dApps regularly provides better understanding of the ecosystem.

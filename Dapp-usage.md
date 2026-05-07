@@ -9,6 +9,9 @@ Exploring different decentralized applications on the Base network.
 
 Most dApps provide a fast and smooth interaction due to low transaction costs.
 
+Additional testing shows that consistent performance across different dApps improves user confidence.
+Transaction speed and reliability make repeated interactions more likely over time.
+
 ## Variety
 
 Using multiple dApps helps build a more diverse activity profile.

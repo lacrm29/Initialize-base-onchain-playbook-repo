@@ -26,3 +26,8 @@ Smaller but regular interactions create a more balanced usage profile over time.
 
 Base provides a fast and low-cost environment for interacting with decentralized applications.
 Frequent transactions can be performed efficiently without significant fees or delays.
+
+## Activity Patterns
+
+Using multiple dApps and NFTs creates a broader interaction history across the ecosystem.
+Diverse activity appears more sustainable and realistic compared to repetitive actions.

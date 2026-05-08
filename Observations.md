@@ -16,3 +16,10 @@ Using different dApps creates a more diverse activity profile compared to repeat
 ## Key Insight
 
 Sustainable activity over time appears more natural than short bursts of high interaction.
+
+# Observations
+
+## User Behavior
+
+Consistent activity patterns appear more natural than sudden spikes in transaction volume.
+Smaller but regular interactions create a more balanced usage profile over time.

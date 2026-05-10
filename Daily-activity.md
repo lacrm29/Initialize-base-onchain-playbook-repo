@@ -30,3 +30,9 @@ Smaller daily actions are easier to maintain consistently over longer periods.
 Regular interaction with ecosystem tools improves understanding of network dynamics.
 Exploring different applications also increases exposure to various onchain activities.
 Over time, repeated usage creates a more complete activity history.
+
+## Activity Stability
+
+Stable interaction patterns appear more realistic than sudden increases in activity volume.
+Long-term consistency provides a clearer picture of actual network participation.
+Maintaining sustainable usage habits reduces unnecessary transaction behavior.

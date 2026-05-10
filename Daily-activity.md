@@ -24,3 +24,9 @@ A steady approach also allows better tracking of changes within the Base ecosyst
 Balanced activity distribution helps avoid irregular interaction patterns.
 Combining swaps, dApp usage, and social engagement creates a broader ecosystem presence.
 Smaller daily actions are easier to maintain consistently over longer periods.
+
+## Ecosystem Interaction
+
+Regular interaction with ecosystem tools improves understanding of network dynamics.
+Exploring different applications also increases exposure to various onchain activities.
+Over time, repeated usage creates a more complete activity history.

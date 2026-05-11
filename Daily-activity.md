@@ -42,3 +42,15 @@ Maintaining sustainable usage habits reduces unnecessary transaction behavior.
 Building a consistent routine improves long-term interaction quality within the ecosystem.
 Frequent but controlled activity patterns appear more sustainable over time.
 Regular engagement also helps track changes across different applications and tools.
+
+## Interaction Diversity
+
+Combining multiple forms of activity creates a broader and more balanced profile.
+Using swaps, NFTs, and dApps together increases ecosystem exposure naturally.
+Diverse interaction history also reflects more realistic network participation.
+
+## Ongoing Participation
+
+Continuous participation provides more reliable long-term activity data.
+Gradual engagement patterns appear more stable compared to short-term spikes.
+Maintaining activity over time supports stronger ecosystem familiarity.

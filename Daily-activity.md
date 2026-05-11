@@ -36,3 +36,9 @@ Over time, repeated usage creates a more complete activity history.
 Stable interaction patterns appear more realistic than sudden increases in activity volume.
 Long-term consistency provides a clearer picture of actual network participation.
 Maintaining sustainable usage habits reduces unnecessary transaction behavior.
+
+## Routine Development
+
+Building a consistent routine improves long-term interaction quality within the ecosystem.
+Frequent but controlled activity patterns appear more sustainable over time.
+Regular engagement also helps track changes across different applications and tools.

@@ -36,3 +36,9 @@ Adapting gradually to these changes helps maintain consistent long-term particip
 Following ecosystem developments helps users discover new tools and workflows.
 Regular learning supports better decision-making when interacting with different applications.
 Documenting these observations also creates a valuable long-term knowledge base.
+
+## Sustainable Participation
+
+Long-term ecosystem participation benefits from realistic activity rather than excessive short-term engagement.
+Maintaining a balanced routine helps create consistent interaction patterns over time.
+Sustainability should remain a core objective when building an onchain strategy.

@@ -30,3 +30,9 @@ A balanced approach combining consistency, diversity, and efficiency leads to a 
 A successful onchain strategy should remain flexible as the ecosystem evolves.
 New applications and protocol updates may introduce different interaction opportunities.
 Adapting gradually to these changes helps maintain consistent long-term participation.
+
+## Continuous Learning
+
+Following ecosystem developments helps users discover new tools and workflows.
+Regular learning supports better decision-making when interacting with different applications.
+Documenting these observations also creates a valuable long-term knowledge base.
